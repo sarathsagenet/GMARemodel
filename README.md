@@ -1,2 +1,0 @@
-# GMARemodel
-Show different Architectures
